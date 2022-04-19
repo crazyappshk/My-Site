@@ -207,6 +207,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .container-div-style{
 	width:100%;
 }
+.h1-style{
+	width:38.5%;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -296,6 +299,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 @media (max-width: 575px){
 	.btn-style{
 		width:95.36%;
+	}
+	.h1-style{
+		width:100%;
+		font-size:32px;
 	}
 	
 	/* Mobile Text Margin Offsets */
